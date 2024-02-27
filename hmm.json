@@ -77,6 +77,13 @@
             "url":"https://github.com/SPLCoding/hxCodec-but-it-works-xd.git"
         },
         {
+            "name": "hxvlc",
+            "type": "git",
+            "dir": null,
+            "ref": "main",
+            "url": "https://github.com/MAJigsaw77/hxvlc"
+        },
+        {
             "name":"extension-androidtools",
             "type":"git",
             "dir":null,
