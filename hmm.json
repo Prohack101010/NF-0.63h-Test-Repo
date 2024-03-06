@@ -70,18 +70,16 @@
             "url":"https://github.com/Sirox228/linc_luajit"
         },
         {
-            "name":"hxCodec",
-            "type":"git",
-            "dir":null,
-            "ref":"main",
-            "url":"https://github.com/SPLCoding/hxCodec-but-it-works-xd.git"
+            "name": "hxCodec",
+            "type": "haxelib",
+            "version": "2.6.0"
         },
         {
             "name": "hxvlc",
             "type": "git",
             "dir": null,
             "ref": "main",
-            "url": "https://github.com/MAJigsaw77/hxvlc"
+            "url": "https://github.com/mcagabe19-stuff/hxvlc"
         },
         {
             "name":"extension-androidtools",
